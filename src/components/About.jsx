@@ -547,16 +547,16 @@ export default function About() {
                 <div className="flex items-center gap-2">
                   <Sparkles
                     size={14}
-                    className="text-amber-400"
+                    className="text-amber-400"s
                   />
 
                   <div>
                     <div className="font-sans text-[0.7rem] font-semibold text-cream">
-                      Business Analyst
+                      Graphics Designer/ Content Creator 
                     </div>
 
                     <div className="font-mono text-[0.58rem] text-slate">
-                      Qelem Meda Technologies
+                      gCODE Technologies/Qelem Meda Technologies
                     </div>
                   </div>
                 </div>
